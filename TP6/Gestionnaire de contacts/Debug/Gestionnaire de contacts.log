@@ -1,0 +1,3 @@
+﻿  outil.c
+C:\Users\iPraz\Documents\CSI3\Algorithmique\TPs\outil.c(27,6): warning C4101: 'idx' : variable locale non référencée
+  Gestionnaire de contacts.vcxproj -> C:\Users\iPraz\Documents\CSI3\Algorithmique\TPs\TP6\Debug\Gestionnaire de contacts.exe
