@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\iPraz\Documents\CSI3\Algorithmique\TPs\TP3\exo2\main.c(11,7): warning C4013: 'onoff' non défini(e) ; extern retournant int pris par défaut
+C:\Users\iPraz\Documents\CSI3\Algorithmique\TPs\TP3\exo2\main.c(22): warning C4716: 'nbbits' : doit retourner une valeur
+C:\Users\iPraz\Documents\CSI3\Algorithmique\TPs\TP3\exo2\main.c(17): warning C4716: 'nboctets' : doit retourner une valeur
+C:\Users\iPraz\Documents\CSI3\Algorithmique\TPs\TP3\exo2\main.c(34): warning C4716: 'onoff' : doit retourner une valeur
+  exo2.vcxproj -> C:\Users\iPraz\Documents\CSI3\Algorithmique\TPs\TP3\Debug\exo2.exe

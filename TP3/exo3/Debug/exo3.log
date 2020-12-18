@@ -1,0 +1,11 @@
+﻿  main.c
+C:\Users\iPraz\Documents\CSI3\Algorithmique\TPs\TP3\exo3\main.c(8,11): warning C4013: 'fctswitch' non défini(e) ; extern retournant int pris par défaut
+C:\Users\iPraz\Documents\CSI3\Algorithmique\TPs\TP3\exo3\main.c(59,22): warning C4013: '_getch' non défini(e) ; extern retournant int pris par défaut
+C:\Users\iPraz\Documents\CSI3\Algorithmique\TPs\TP3\exo3\main.c(68,115): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\iPraz\Documents\CSI3\Algorithmique\TPs\TP3\exo3\main.c(72,13): warning C4476: 'scanf_s' : caractère de champ de type '.' inconnu dans le spécificateur de format
+C:\Users\iPraz\Documents\CSI3\Algorithmique\TPs\TP3\exo3\main.c(72,20): warning C4474: 'scanf_s' : trop d'arguments passés pour la chaîne de format
+C:\Users\iPraz\Documents\CSI3\Algorithmique\TPs\TP3\exo3\main.c(72,20): message : les espaces réservés et leurs paramètres attendent des arguments 0 variadiques, mais des arguments 1 ont été fournis
+C:\Users\iPraz\Documents\CSI3\Algorithmique\TPs\TP3\exo3\main.c(44,6): warning C4101: 'notes' : variable locale non référencée
+C:\Users\iPraz\Documents\CSI3\Algorithmique\TPs\TP3\exo3\main.c(22): warning C4716: 'enter' : doit retourner une valeur
+C:\Users\iPraz\Documents\CSI3\Algorithmique\TPs\TP3\exo3\main.c(81): warning C4716: 'fctswitch' : doit retourner une valeur
+  exo3.vcxproj -> C:\Users\iPraz\Documents\CSI3\Algorithmique\TPs\TP3\Debug\exo3.exe
