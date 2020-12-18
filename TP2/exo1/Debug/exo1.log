@@ -1,0 +1,4 @@
+﻿  boucle.c
+C:\Users\iPraz\Documents\CSI3\Algorithmique\TPs\TP2\TP2\exo1\boucle.c(8,8): warning C4013: 'fctfor' non défini(e) ; extern retournant int pris par défaut
+C:\Users\iPraz\Documents\CSI3\Algorithmique\TPs\TP2\TP2\exo1\boucle.c(11,13): warning C4013: 'depassement' non défini(e) ; extern retournant int pris par défaut
+C:\Users\iPraz\Documents\CSI3\Algorithmique\TPs\TP2\TP2\exo1\boucle.c(79,6): error C2059: erreur de syntaxe : 'constante'
