@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\iPraz\Documents\CSI3\Algorithmique\TPs\TP5\Exercice 2\main.c(5,1): warning C4005: 'TAILLEINITIALE' : redéfinition de macro
+C:\Users\iPraz\Documents\CSI3\Algorithmique\TPs\TP5\Exercice 2\tab.h(3): message : voir la définition précédente de 'TAILLEINITIALE'
+  Exercice 2.vcxproj -> C:\Users\iPraz\Documents\CSI3\Algorithmique\TPs\TP5\Debug\Exercice 2.exe
