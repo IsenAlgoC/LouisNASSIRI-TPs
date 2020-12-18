@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\iPraz\Documents\CSI3\Algorithmique\TPs\TP5\Exercice1\main.c(11,9): warning C4013: 'initTab' non défini(e) ; extern retournant int pris par défaut
+C:\Users\iPraz\Documents\CSI3\Algorithmique\TPs\TP5\Exercice1\main.c(13,12): warning C4013: 'afficheTab' non défini(e) ; extern retournant int pris par défaut
+C:\Users\iPraz\Documents\CSI3\Algorithmique\TPs\TP5\Exercice1\main.c(26,13): warning C4013: 'unavingtTab' non défini(e) ; extern retournant int pris par défaut
+C:\Users\iPraz\Documents\CSI3\Algorithmique\TPs\TP5\Exercice1\main.c(37,25): warning C4013: 'ajoutElementDansTableau' non défini(e) ; extern retournant int pris par défaut
+  Exercice1.vcxproj -> C:\Users\iPraz\Documents\CSI3\Algorithmique\TPs\TP5\Debug\Exercice1.exe
